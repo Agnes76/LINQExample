@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.exe
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.deps.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.dev.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\bin\Debug\net5.0\ref\LINQDemo.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfo.cs
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\ref\LINQDemo.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.genruntimeconfig.cache

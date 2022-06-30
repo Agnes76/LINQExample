@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y2O6Y6XNkt2p5CW73o9pDCTdvwdedFn6XPEQOOxhALYiwHr9UbF0AJ/jdVDuOG6FxP/w/oWKo7BR3RDdgDF70A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\Project\\Payment\\CodingChallenge\\LINQDemo\\LINQDemo\\LINQDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
